@@ -12,4 +12,4 @@ The JSON document shall be indented with three or multiples of three spaces.
 
 The properties in CVE JSON document shall be sorted alphabetically.
 
-This helps in reviewing differences between various JSON producers.
+This helps in reviewing differences between JSON from different JSON producers.
